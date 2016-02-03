@@ -1,0 +1,196 @@
+header{
+	padding: 15px 0;
+	margin: 0;
+	color: #9AA0A8;
+	
+}
+.logo{
+	width: 90px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	color: gray;
+}
+nav li:hover a {
+	background: #585858
+}
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: gray;
+	
+}
+nav a:hover{
+	color: #fff;
+}
+.loremse{
+	padding: 0 200px;
+	margin-top: 70px;
+}
+
+.frejol{
+	background-color: #F2F2F2;
+	width: 100%;
+	min-height: 700px;
+	text-align: center
+}
+.semilla{
+	width: 100%;
+	height: 500px;
+}
+.mision{
+	background-color: white;
+	text-align: center;
+	margin-top: 30px;
+	float:left;
+	display: inline-block;
+	width: 100%;
+	height:300px;
+}	
+.tres{
+	margin-top: 20px;
+}
+.bacon{
+	color: black;
+	text-align: center;
+}
+.metodology{
+	height: 300px;
+}
+.seis{
+	width: 120%;
+	height: 300px; 
+	margin-left: -14px;
+}
+.metodologia{
+	background-image: url("../img/fondo.jpg");
+    background-color: #cccccc;
+	text-align: center;
+	float:left;
+	display: inline-block;
+	width: 102.2%;
+	min-height:300px;
+	color: white;	
+	padding: 0px  40px;
+
+}
+.bacon1{
+	color: white;
+}	
+.img{
+	margin-top: 80px;
+	
+}
+.servicios{
+	background-color: white;
+	min-height:300px;
+	text-align: center;
+}
+.servicios h1{
+	padding-top: 30px;
+}	
+	
+.servicio{
+	
+	margin-top: 70px;
+	text-align: center;
+}
+.text-ser{
+	padding: 0px 30px;
+	text-align: center;
+}
+.proyectos{
+	background-color: #5E8039;
+	margin-top: 40px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+
+}
+.text-pro{
+	padding: 0px 70px;
+}
+.pro{
+	margin-top: 15px;
+	width: 80%;
+	height: 350px;
+}
+.nom-pro{
+	margin-top: 120px;
+}
+.equipo{
+	margin-top: 15px;
+	margin-left: 20px;
+}
+.girl{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.nom-girl{
+	margin-top: 10px;
+}
+.social{
+	width: 35px;
+	height: 35px;
+	margin-top: 15px;
+}
+.post{
+	background-image: url("../img/fondo2.jpg");
+	width:100%;
+	min-height: 300px;
+	margin-top: 30px;
+	padding-bottom: 20px;
+
+}
+.foto-post{
+	width: 100%;
+	height: 210px;
+	margin-top: 20px;
+	color: #4D4D4D;
+	
+}
+
+.redes{
+	background-color: #4D4D4D;
+	width: 100%;
+	min-height: 300px;
+}
+.red{
+	border: 1px solid white;
+	width: 25%;
+	height: 250px;
+	float: left;
+	margin-top: 30px;
+	padding-left: 20px;
+}
+.icon{
+	width: 80px;
+	height: 80px;
+	margin-top: 120px;
+	margin-left: 160px;
+}
+.first{
+	position: absolute;
+	left: -70px;
+	top: 200px;
+}
+.last{
+	position: absolute;
+	right: -70px;
+	top: 200px;
+}
+footer{
+	padding: 40px;
+}
